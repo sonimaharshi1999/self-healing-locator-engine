@@ -1,0 +1,78 @@
+======================================================================
+  self healing locator engine
+======================================================================
+
+Author: Maharshi Soni
+Category: qa-ai-automation
+Difficulty: advanced
+
+----------------------------------------------------------------------
+DESCRIPTION
+----------------------------------------------------------------------
+**Automatically find alternative selectors when UI automation tests break due to changed selectors.**
+
+----------------------------------------------------------------------
+TECH STACK
+----------------------------------------------------------------------
+  - beautifulsoup4
+  - scikit-learn
+  - numpy
+  - pytest
+
+----------------------------------------------------------------------
+FEATURES
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+SAMPLE INPUT
+----------------------------------------------------------------------
+  See README
+
+  Example:
+    See README
+
+----------------------------------------------------------------------
+SAMPLE OUTPUT
+----------------------------------------------------------------------
+  See README
+
+  Example:
+    See README
+
+----------------------------------------------------------------------
+PROJECT STRUCTURE
+----------------------------------------------------------------------
+  .gitignore
+  dom_analyzer.py
+  LICENSE
+  locator_engine.py
+  main.py
+  ml_classifier.py
+  models.py
+  playwright_integration.py
+  README.md
+  requirements.txt
+  strategies.py
+  utils.py
+  __init__.py
+  tests/conftest.py
+  tests/test_dom_analyzer.py
+  tests/test_locator_engine.py
+  tests/test_ml_classifier.py
+  tests/test_models.py
+  tests/test_playwright_integration.py
+  tests/test_strategies.py
+  tests/test_utils.py
+  tests/__init__.py
+
+----------------------------------------------------------------------
+TEST RESULTS
+----------------------------------------------------------------------
+  Status: PASSED
+  Tests Run: 7
+  Passed: 7
+  Failed: 0
+
+======================================================================
+  Author: Maharshi Soni  |  License: MIT
+======================================================================

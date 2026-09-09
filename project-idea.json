@@ -1,0 +1,16 @@
+﻿{
+    "features":  [
+
+                 ],
+    "description":  "When UI automation tests break due to changed selectors, this tool automatically finds the best alternative locator using DOM similarity scoring, attribute fuzzy matching, and ML-based element classification.",
+    "tech_stack":  [
+                       "beautifulsoup4",
+                       "scikit-learn",
+                       "numpy",
+                       "pytest"
+                   ],
+    "difficulty":  "advanced",
+    "category":  "qa-ai-automation",
+    "title":  "Self-Healing Locator Engine",
+    "project_name":  "self-healing-locator-engine"
+}
